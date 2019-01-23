@@ -1,10 +1,21 @@
 {
-  "name": "58pic-websql",
+  "name": "websql-plugin",
   "version": "1.0.0",
   "description": "hcqk qtw 58pic-box websql plugin",
   "main": "index.js",
   "author": "@Lodo by 58pic Team",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undefinedESC/websql-plugin.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/undefinedESC/websql-plugin/issues"
+  },
+  "homepage": "https://github.com/undefinedESC/websql-plugin#README",
   "dependencies": {
     "pouchdb-browser": "^7.0.0",
     "pouchdb-find": "^7.0.0"
