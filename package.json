@@ -1,0 +1,12 @@
+{
+  "name": "58pic-websql",
+  "version": "1.0.0",
+  "description": "hcqk qtw 58pic-box websql plugin",
+  "main": "index.js",
+  "author": "@Lodo by 58pic Team",
+  "license": "MIT",
+  "dependencies": {
+    "pouchdb-browser": "^7.0.0",
+    "pouchdb-find": "^7.0.0"
+  }
+}
