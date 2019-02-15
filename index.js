@@ -1,1 +1,1 @@
-module.exports.Pouchdb = require('./lib/pouchdb.js');
+module.exports.PouchDB = require('./lib/pouchdb.js');
