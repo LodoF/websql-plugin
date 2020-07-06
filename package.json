@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/undefinedESC/websql-plugin#README",
   "dependencies": {
-    "pouchdb": "7.2.1",
     "pouchdb-browser": "^7.0.0",
     "pouchdb-find": "^7.0.0"
   }
